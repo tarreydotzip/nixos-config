@@ -17,4 +17,7 @@
     alsa.support32Bit = true;
     pulse.enable = true;
   };
+
+  services.gvfs.enable = true;
+  services.tumbler.enable = true;
 }
