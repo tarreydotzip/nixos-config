@@ -33,6 +33,8 @@
     libGL
     libGLU
     libglvnd
+    zip
+    unzip
   ];
 
   musnix.enable = true;
