@@ -8,5 +8,8 @@
       lxappearance
       picom
       papirus-icon-theme
+      themix-gui
+      imagemagick
+      nwg-look
    ];
 }
