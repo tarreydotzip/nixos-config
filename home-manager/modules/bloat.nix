@@ -6,5 +6,7 @@
     keepassxc
     fortune
     figlet
+    thunar-volman
+    thunar-archive-plugin
   ];
 }
