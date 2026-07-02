@@ -18,6 +18,8 @@
     # What is even a wm or a compositor without something that serves as a bar!?
     quickshell
     awww
+    grim
+    slurp
 
     # this one's adopted btw
     inputs.nixvim.packages.${pkgs.system}.default
