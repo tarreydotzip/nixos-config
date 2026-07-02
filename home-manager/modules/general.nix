@@ -6,13 +6,12 @@
     alacritty
     rofi
     fastfetch
-    nemo
+    thunar
     unzip
     unrar
-    file-roller
+    engrampa
     gnome-screenshot
     libnotify
-    nemo-fileroller
     obs-studio
 
     # What is even a wm or a compositor without something that serves as a bar!?
